@@ -9,6 +9,7 @@ body {
     font-family: 'Island Moments', cursive;
 font-family: 'Lato', sans-serif;
 font-family: 'Roboto', sans-serif;
+list-style: none;
     
 }
 
@@ -182,3 +183,4 @@ hr {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
